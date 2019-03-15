@@ -36,5 +36,9 @@ public class HelloWorld {
 		return null;
 	}
 	
+	public void name() {
+		
+	}
+	
 	
 }
